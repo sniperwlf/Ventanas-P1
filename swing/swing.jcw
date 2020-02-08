@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>swing</label>
+	</settings>
+	<users>
+		<user>
+			<path>swing.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>swing.jcp</path>
+		</project>
+	</projects>
+</workspace>
